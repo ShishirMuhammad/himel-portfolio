@@ -52,3 +52,22 @@ h3{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
 }
+h4{
+    font-weight: 800;
+}
+.experience-added{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experience-item{
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    width: 40%;
+    padding: 2%;
+    border-radius: 15px;
+    border-left:5px solid;
+    border-color: blueviolet;
+}
